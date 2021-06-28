@@ -1,4 +1,4 @@
 # TodoList
 A simple TODO list
 
-### Python vrsion 3.8.5
+### Python version 3.8.5
