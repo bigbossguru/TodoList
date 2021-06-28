@@ -1,7 +1,7 @@
 # TodoList
 A simple TODO list
 
-### Install Python version 3.8.5
+## Install Python version 3.8.5
 
 ### Activate virtual envoriament
 ```
@@ -21,4 +21,16 @@ python manage.py migrate
 ### Run server
 ```
 python manage.py runserver
+```
+## Node modules
+### Remove all node_modules
+```
+cd frontend
+```
+```
+rm -rf node_modules/
+```
+### Install new modules
+```
+npm install
 ```
