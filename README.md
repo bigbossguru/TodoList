@@ -25,7 +25,7 @@ python manage.py runserver
 ## Node modules
 ### Remove all node_modules
 ```
-cd frontend
+cd frontend/
 ```
 ```
 rm -rf node_modules/
