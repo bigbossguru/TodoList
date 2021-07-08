@@ -1,5 +1,5 @@
 # TodoList
-A simple TODO list
+A simple TODO list used Django and React JS frameworks
 
 ## Install Python version 3.8.5
 
